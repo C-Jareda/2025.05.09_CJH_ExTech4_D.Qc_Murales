@@ -1,9 +1,14 @@
 # HNU6055-Humanités numériques : données ouvertes
-## Intérêts du cours
-Le cours Humanités numériques est intéressant pour deux raisons. La première, personnelle, est en rapport avec le fait que de façon prédominante le monde du numérique fait de plus en plus partie de nos vies, ce qui rend nécessaire de connaître, du moins de façon sommaire, les composantes, les mécanismes et le fonctionnement de ce monde. Dans un deuxième temps, c'est intéressant parce que je vais être enseignante et c'est important que je puisse conscientiser les générations futures aux réalités du monde numérique. 
+## Intérêts de l'exercice
+L'exercice de manipulation de données ouvertes me semble pertinent, car d'un côté il me permet d'apprendre à reconnaître ce qui est ouvert en ligne et de comprendre dans quelles mesures j'ai  accès à de l'information d'intérêt public. D'autre part, j'apprend à lire les informations qui les décrivent et à reconnaître ou a chercher les métadonnées et les licences pour pouvoir interagir correctement avec ces données. L'exercice est d'autant plus pertinent, car le monde numérique étant surimposé sur la plupart de nos activités du quotidien, savoir comment les lire et les interpréter est important afin de pouvoir se mouvoir dans cette couche informationnelle.
+
+## Description de l'exercice
+Essayer d'insérer les données dans R afin de produire une visualisation sous forme de carte géographique. 
 
 ## Source de données
 VILLE DE MONTRÉAL. Murales subventionnées, [Jeu de données], dans Données Québec, 2016, mis à jour le 03 mai 2025. [https://www.donneesquebec.ca/recherche/dataset/vmtl-murales], (consulté le 09 mai 2025).
+
+## Licence
 
 Licence attribuée CC-BY 4.0
 
@@ -17,6 +22,7 @@ contient le tableau des données
 
 ### Figure
 contient un graphique à barres 
+contient une mappe pour visualiser la distribution des murales sur l'île de Montréal
 
 ## Licence
 Shield : [![CC BY 4.0][cc-by-shield]][cc-by]
