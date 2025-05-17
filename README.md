@@ -13,16 +13,16 @@ VILLE DE MONTRÉAL. Murales subventionnées, [Jeu de données], dans Données Qu
 Licence attribuée CC-BY 4.0
 
 ## Prétraitment des données
-aucune données n'a été ajoutée
+Aucune données n'a été ajoutée
 
 ## Dossiers
 
 ### Résultat
-contient le tableau des données
+Contient le tableau des données
 
 ### Figure
-contient un graphique à barres 
-contient une mappe pour visualiser la distribution des murales sur l'île de Montréal
+Contient un graphique à barres. 
+J'aurais aimé inclure une représentation visuelle de leaflet, mais chaque fois que j'importe mes données sur posit.cloud les données sont décalées, donc les chiffres de latitude et longitude se trouvent dans les cellules pour l'artiste, ce qui rend les informations de coordonnées inutilisables, malheureusement. Le dossier ouvert dans *Excel* est normal, mais ouvert avec *R* il n'est pas lu tout à fait correctement. En regardant les cellules, peut-être que ce sont les cellules vides qui provoquent le décalage dans la lecture des données. Il faudrait que j'aie faire les corrections manuellement. Ce sera pour une future tentative.
 
 ## Licence
 Shield : [![CC BY 4.0][cc-by-shield]][cc-by]
